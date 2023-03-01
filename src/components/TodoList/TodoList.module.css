@@ -1,0 +1,14 @@
+.item_text{
+    font-size: 18px!important;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: inherit;
+}
+
+@media only screen and (max-width: 600px) {
+    .list{
+        padding: 16px 0;
+    }
+  }
